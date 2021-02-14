@@ -28,8 +28,8 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="161"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <stackView opaque="NO" contentMode="scaleToFill" alignment="top" spacing="25" translatesAutoresizingMaskIntoConstraints="NO" id="b8f-sN-cvL">
-                                                    <rect key="frame" x="28" y="19" width="358" height="123"/>
+                                                <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" alignment="top" spacing="25" translatesAutoresizingMaskIntoConstraints="NO" id="b8f-sN-cvL">
+                                                    <rect key="frame" x="-45" y="19" width="358" height="123"/>
                                                     <subviews>
                                                         <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Bi6-TX-LZr">
                                                             <rect key="frame" x="0.0" y="0.0" width="82" height="123"/>
